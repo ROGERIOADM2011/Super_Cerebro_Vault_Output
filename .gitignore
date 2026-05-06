@@ -1,0 +1,20 @@
+# ============================================================
+# .gitignore - Vault Output
+# Super Cerebro Rogerio Rocha
+# ============================================================
+
+# Backups e arquivos temporarios
+*.bak
+*.tmp
+*.temp
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Obsidian - arquivos de workspace que mudam automaticamente
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
